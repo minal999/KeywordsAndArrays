@@ -44,7 +44,7 @@ namespace ZeroArray
                     count++;
                 }
             }
-            while(count<arr.Length)
+          while(count<arr.Length)
             {
                 arr[count] = 0;
                 count++;
